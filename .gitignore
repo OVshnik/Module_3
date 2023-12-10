@@ -51,3 +51,10 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/Profile/Profile/Profile.csproj
+/Profile/Profile/App.config
+/Profile/Profile.sln
+/Profile/Profile/Properties/AssemblyInfo.cs
+/Profile/Profile/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+/Profile/Profile/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/Profile/Profile/obj/Debug/Profile.csproj.AssemblyReference.cache
